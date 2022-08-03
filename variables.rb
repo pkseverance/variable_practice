@@ -12,3 +12,7 @@ roman_is_alive = true
 
 puts "Gertrude was a worker at Chernobyl"
 puts "Roman is Gertrude's son"
+
+gertrude = "Gertrude Freemont"
+roman = "Roman Freemont"
+
