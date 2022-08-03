@@ -9,3 +9,6 @@ roman_toes = 11.3
 
 gertrude_is_alive = true
 roman_is_alive = true
+
+puts "Gertrude was a worker at Chernobyl"
+puts "Roman is Gertrude's son"
