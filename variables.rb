@@ -6,3 +6,6 @@ roman_age = 24
 
 gertrude_toes = 13.7
 roman_toes = 11.3
+
+gertrude_is_alive = true
+roman_is_alive = true
